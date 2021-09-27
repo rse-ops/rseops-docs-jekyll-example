@@ -5,7 +5,7 @@ permalink: /
 sidebar: example-sidebar
 ---
 
-# Continuous Integration
+# RADIUSS Docs Jekyll Theme Example
 
 {:.no_toc}
 
