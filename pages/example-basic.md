@@ -6,8 +6,8 @@ layout: docs
 
 # An Example Page
 
-This is an example page using [radiuss-docs-jekyll](https://github.com/rse-radiuss/radiuss-docs-jekyll).
-You can see full instructions there! The content below is randomly grabbed from a radiuss build, only to show you
+This is an example page using [rseops-docs-jekyll](https://github.com/rse-ops/rseops-docs-jekyll).
+You can see full instructions there! The content below is randomly grabbed from a RSE-ops build, only to show you
 different kinds of formatting and the table of contents on the left. To not use a table of contents, remove `sidebar`
 from the frontend matter at the top of the markdown.
 
